@@ -1,4 +1,7 @@
-sachin
-sehwag
-yuvraj
-dhoni
+odi
+test
+t20
+t20
+odi
+odi
+odi
